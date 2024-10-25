@@ -4,10 +4,9 @@
 
 - This is a public repository; do not commit credentials or sensitive information.
 - If any stack is used in the project, please add the respective Docker image in the `docker-compose` file.
-- Ensure all code is properly documented.
 - Follow the coding standards and best practices.
 - Review your code thoroughly before submitting a pull request.
-- Test with the front-end before creating a pull request.
+- When working on the controller layer test with the front-end before creating a pull request.
 
 ## Branch Policy
 
